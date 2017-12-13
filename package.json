@@ -18,7 +18,7 @@
     "react-native-beautiful-video-recorder"
   ],
   "license": "MIT",
-  "peerDependencies": {
+  "dependencies": {
     "moment": "^2.17.1",
     "prop-types": "^15.6.0",
     "react-native-camera": "git+https://github.com/lwansbrough/react-native-camera.git",
